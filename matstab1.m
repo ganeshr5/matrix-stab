@@ -10,6 +10,7 @@ clc
 % compute inner products between all columns of Anorm and Bnorm
 % find the best matches and form permutation matrix that aligns B to A.
 
+% Create A and B matrices of size 4*4 
 A = rand(4,4)
 B = A + (0.01*rand(4,4))
 
