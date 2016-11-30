@@ -1,4 +1,5 @@
 
+% Stability of a Matrix with alignment method
 % Matrix aligning and Matrix norm
 % Ganesh 
 
